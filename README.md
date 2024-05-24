@@ -1,5 +1,6 @@
 # Movie-Review-Sentiment-Backend
 
+Movie-Review-Sentiment-Backend is a Flask-based backend service designed to analyze and predict the sentiment of movie reviews using machine learning. The project leverages natural language processing (NLP) techniques to classify reviews as positive, negative, or neutral. This repository contains the Python code, Jupyter notebooks for model training and evaluation, and the serialized model files used to deploy the sentiment analysis model.
 
 ## Prerequisites
 
